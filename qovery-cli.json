@@ -1,0 +1,19 @@
+{
+    "version": "0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Qovery/qovery-cli/releases/download/v0.1/qovery-cli_0.1_windows_amd64.tar.gz",
+            "bin": [
+                "qovery.exe"
+            ],
+            "hash": "75825315feae6d043cbf5cbd0921cb8303b03180a25b0f34063220f2b4b4e49c"
+        }
+    },
+    "homepage": "https://docs.qovery.com",
+    "license": "GPL3",
+    "description": "Deploy modern application in seconds",
+    "persist": [
+        "data",
+        "config.toml"
+    ]
+}
