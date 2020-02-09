@@ -1,12 +1,12 @@
 {
-    "version": "0.12.0",
+    "version": "0.12.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Qovery/qovery-cli/releases/download/v0.12.0/qovery-cli_0.12.0_windows_amd64.tar.gz",
+            "url": "https://github.com/Qovery/qovery-cli/releases/download/v0.12.1/qovery-cli_0.12.1_windows_amd64.tar.gz",
             "bin": [
                 "qovery.exe"
             ],
-            "hash": "07e0ce33d98ce4d54c5ee95b05b818c1018053c6cb48245c14d7c4905e4ac8c3"
+            "hash": "65dd99a07e7ae9f63708b75f615bcf8672a573134772f390097cf2d8392c4fee"
         }
     },
     "homepage": "https://docs.qovery.com",
