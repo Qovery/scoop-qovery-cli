@@ -6,14 +6,14 @@
             "bin": [
                 "qovery.exe"
             ],
-            "hash": "5f78c123737bff7071157060a61c9cfb7732ae82449b94d73cf197aad82f9255"
+            "hash": "002f106529046992101d278f5fc837d0b106f018bac1be24ec0971ca3544a689"
         },
         "arm64": {
             "url": "https://github.com/Qovery/qovery-cli/releases/download/v1.0.0/qovery-cli_1.0.0_windows_arm64.zip",
             "bin": [
                 "qovery.exe"
             ],
-            "hash": "e66fc55cafaf32a83be00bdc89ada0fb9187b36c3821a14509de84c21b322687"
+            "hash": "632a2baf22697b53f6799f24220a9644ae5e4c9292d87d5727826854ae09a235"
         }
     },
     "homepage": "https://docs.qovery.com",
